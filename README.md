@@ -50,6 +50,13 @@ Color Styles:
 - Primary Font: Circular, Medium (500), 16px
 - Headings: Circular, Bold (700), 24px-32px
 - Secondary Text: Circular, Book (400), 14px
+##  Importance of Identifying Design Properties of a Mockup Design
+- Ensures Accurate Implementation
+- Maintains Consistency
+- Improves Developer-Designer Collaboration
+- Speeds Up Development
+- Supports Responsiveness
+- Aids Accessibility
 
 ## Project Roles and Responsibilities
 
